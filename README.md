@@ -9,7 +9,7 @@
 
 ## Getting Started <a name = "getting-started"></a>
 
-Active URL: https://github.com/jonathanwu906/Snake-Game
+Active URL: https://snake-game-nlq5ogysu-jonathanwu906s-projects.vercel.app
 
 ## Technical Choices <a name = "technical-choices"></a>
 
