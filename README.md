@@ -2,45 +2,31 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Getting Started](#getting-started)
+- [Technical Choices](#technical-choices)
+- [Features](#features)
+- [Game Controls](#game-controls)
 
-## About <a name = "about"></a>
+## Getting Started <a name = "getting-started"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Active URL: https://github.com/jonathanwu906/Snake-Game
 
-## Getting Started <a name = "getting_started"></a>
+## Technical Choices <a name = "technical-choices"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+- HTML
+- CSS
+- JavaScript
 
-### Prerequisites
+## Features <a name = "features"></a>
 
-What things you need to install the software and how to install them.
+- Snake movement using arrow keys.
+- A food item that grows the snake upon consumption.
+- Score tracking system.
+- Game over functionality on snake collision with iteself or wall.
 
-```
-Give examples
-```
+## Game Controls <a name = "game-controls"></a>
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+- Up Arrow: Move the snake upwards.
+- Down Arrow: Move the snake downwards.
+- Left Arrow: Move the snake to the left.
+- Right Arrow: Move the snake to the right.
